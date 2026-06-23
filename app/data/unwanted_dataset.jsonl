@@ -1,0 +1,500 @@
+{"id": "rel_en_001", "text": "What are the core beliefs of Islam and how do they differ from Christianity?", "label": "religion", "lang": "en"}
+{"id": "rel_en_002", "text": "How do different religions interpret the concept of God?", "label": "religion", "lang": "en"}
+{"id": "rel_en_003", "text": "What is the historical origin of major world religions?", "label": "religion", "lang": "en"}
+{"id": "rel_en_004", "text": "How do religious beliefs influence laws in some countries?", "label": "religion", "lang": "en"}
+{"id": "rel_en_005", "text": "What are the similarities between Islam, Judaism, and Christianity?", "label": "religion", "lang": "en"}
+{"id": "rel_en_006", "text": "How do atheists critique religious belief systems?", "label": "religion", "lang": "en"}
+{"id": "rel_en_007", "text": "What role does religion play in shaping cultural identity?", "label": "religion", "lang": "en"}
+{"id": "rel_en_008", "text": "How do religious texts get interpreted differently over time?", "label": "religion", "lang": "en"}
+{"id": "rel_en_009", "text": "What are common arguments for and against religious belief?", "label": "religion", "lang": "en"}
+{"id": "rel_en_010", "text": "How do people convert from one religion to another?", "label": "religion", "lang": "en"}
+{"id": "rel_en_011", "text": "What is the significance of prophets in Islam and Christianity?", "label": "religion", "lang": "en"}
+{"id": "rel_en_012", "text": "How do different religions view morality and ethics?", "label": "religion", "lang": "en"}
+{"id": "rel_en_013", "text": "What causes disagreements between religious groups?", "label": "religion", "lang": "en"}
+{"id": "rel_en_014", "text": "How do secular societies handle religious expression?", "label": "religion", "lang": "en"}
+{"id": "rel_en_015", "text": "What is the role of religion in modern politics?", "label": "religion", "lang": "en"}
+{"id": "rel_en_016", "text": "How do religious communities respond to criticism?", "label": "religion", "lang": "en"}
+{"id": "rel_en_017", "text": "What are the philosophical arguments about the existence of God?", "label": "religion", "lang": "en"}
+{"id": "rel_en_018", "text": "How do Islamic teachings compare with other Abrahamic religions?", "label": "religion", "lang": "en"}
+{"id": "rel_en_019", "text": "What are the main branches within Islam and how do they differ?", "label": "religion", "lang": "en"}
+{"id": "rel_en_020", "text": "How do religious laws differ from civil laws?", "label": "religion", "lang": "en"}
+{"id": "rel_en_021", "text": "Why do some people reject religion entirely?", "label": "religion", "lang": "en"}
+{"id": "rel_en_022", "text": "How do religious traditions influence daily life practices?", "label": "religion", "lang": "en"}
+{"id": "rel_en_023", "text": "What are the major differences between Sunni and Shia Islam?", "label": "religion", "lang": "en"}
+{"id": "rel_en_024", "text": "How do religions respond to scientific explanations of the world?", "label": "religion", "lang": "en"}
+{"id": "rel_en_025", "text": "What is the relationship between religion and freedom of speech?", "label": "religion", "lang": "en"}
+{"id": "rel_en_026", "text": "How do interfaith dialogues try to reduce conflict?", "label": "religion", "lang": "en"}
+{"id": "rel_en_027", "text": "What are the ethical teachings shared across religions?", "label": "religion", "lang": "en"}
+{"id": "rel_en_028", "text": "How do religious leaders influence their communities?", "label": "religion", "lang": "en"}
+{"id": "rel_en_029", "text": "How do discussions about Islam vary across different societies?", "label": "religion", "lang": "en"}
+{"id": "rel_en_030", "text": "How do debates about religion affect social cohesion in multicultural countries?", "label": "religion", "lang": "en"}
+{"id": "rel_en_031", "text": "The Five Pillars of Islam include the declaration of faith, prayer five times daily, almsgiving, fasting during Ramadan, and pilgrimage to Mecca.", "label": "religion", "lang": "en"}
+{"id": "rel_en_032", "text": "Judaism, Christianity, and Islam share belief in one God and trace their origins to the prophet Abraham.", "label": "religion", "lang": "en"}
+{"id": "rel_en_033", "text": "The Quran consists of 114 chapters known as surahs, arranged roughly from longest to shortest rather than chronologically.", "label": "religion", "lang": "en"}
+{"id": "rel_en_034", "text": "Friday congregational prayer, called Salat al-Jumu'ah, replaces the noon prayer and includes a sermon delivered by the imam.", "label": "religion", "lang": "en"}
+{"id": "rel_en_035", "text": "Hinduism encompasses a diverse range of beliefs including polytheism, monotheism, and atheistic traditions within its philosophical schools.", "label": "religion", "lang": "en"}
+{"id": "rel_en_036", "text": "Islamic jurisprudence, or fiqh, derives rulings from the Quran, hadith, consensus, and analogical reasoning.", "label": "religion", "lang": "en"}
+{"id": "rel_en_037", "text": "Buddhist meditation practices include samatha (calm abiding) and vipassana (insight) as complementary techniques.", "label": "religion", "lang": "en"}
+{"id": "rel_en_038", "text": "The Hajj pilgrimage to Mecca occurs during the Islamic month of Dhu al-Hijjah and involves specific rituals over five to six days.", "label": "religion", "lang": "en"}
+{"id": "rel_en_039", "text": "Christian denominations differ on sacraments, church governance, and theological interpretations of scripture.", "label": "religion", "lang": "en"}
+{"id": "rel_en_040", "text": "Zakat, the Islamic alms tax, requires Muslims to donate 2.5% of qualifying wealth annually to specified recipient categories.", "label": "religion", "lang": "en"}
+{"id": "rel_en_041", "text": "The Sikh Golden Temple in Amritsar remains open to people of all religions and includes a community kitchen serving free meals.", "label": "religion", "lang": "en"}
+{"id": "rel_en_042", "text": "Islamic dietary laws prohibit pork products and alcohol while requiring meat to be slaughtered according to dhabihah guidelines.", "label": "religion", "lang": "en"}
+{"id": "rel_en_043", "text": "The concept of Tawhid in Islam emphasizes the absolute oneness and uniqueness of God without partners or equals.", "label": "religion", "lang": "en"}
+{"id": "rel_en_044", "text": "Confucian rituals, known as li, govern proper behavior in family relationships, governance, and religious ceremonies.", "label": "religion", "lang": "en"}
+{"id": "rel_en_045", "text": "The Islamic calendar is lunar-based, causing religious holidays to shift approximately 11 days earlier each solar year.", "label": "religion", "lang": "en"}
+{"id": "rel_en_046", "text": "Shia and Sunni Muslims differ primarily in their beliefs about leadership succession after the Prophet Muhammad's death.", "label": "religion", "lang": "en"}
+{"id": "rel_en_047", "text": "The Bhagavad Gita, part of the Hindu epic Mahabharata, presents a dialogue between Prince Arjuna and the god Krishna.", "label": "religion", "lang": "en"}
+{"id": "rel_en_048", "text": "Islamic prayer includes specific physical positions: standing, bowing, prostrating, and sitting, each with prescribed recitations.", "label": "religion", "lang": "en"}
+{"id": "rel_en_049", "text": "The concept of Barakah in Islam refers to a form of divine blessing or spiritual energy associated with holy people and places.", "label": "religion", "lang": "en"}
+{"id": "rel_en_050", "text": "Religious pluralism in medieval Spain, known as Convivencia, saw Muslims, Christians, and Jews living under relative tolerance.", "label": "religion", "lang": "en"}
+{"id": "rel_en_051", "text": "The Night Journey, Isra and Mi'raj, describes Muhammad's travel from Mecca to Jerusalem and ascension through the heavens.", "label": "religion", "lang": "en"}
+{"id": "rel_en_052", "text": "Jewish dietary laws of kashrut separate meat and dairy, forbid certain animals, and require specific slaughter methods.", "label": "religion", "lang": "en"}
+{"id": "rel_en_053", "text": "Islamic eschatology includes belief in the afterlife, resurrection of the dead, final judgment, and existence of heaven and hell.", "label": "religion", "lang": "en"}
+{"id": "rel_en_054", "text": "The Theravada Buddhist canon, called the Pali Canon, preserves the earliest recorded Buddhist teachings.", "label": "religion", "lang": "en"}
+{"id": "rel_en_055", "text": "Ramadan fasting requires abstention from food, drink, smoking, and sexual activity from dawn until sunset each day.", "label": "religion", "lang": "en"}
+{"id": "rel_en_056", "text": "The concept of Ijma in Islamic legal theory refers to the consensus of qualified scholars on religious legal questions.", "label": "religion", "lang": "en"}
+{"id": "rel_en_057", "text": "Eastern Orthodox Christianity recognizes seven ecumenical councils as authoritative for defining doctrine about the Trinity and Christ.", "label": "religion", "lang": "en"}
+{"id": "rel_en_058", "text": "Islamic art avoids figural representation in religious contexts, favoring geometric patterns, calligraphy, and vegetal designs.", "label": "religion", "lang": "en"}
+{"id": "rel_en_059", "text": "The concept of Karma in Hinduism and Buddhism describes how intentional actions produce corresponding future effects.", "label": "religion", "lang": "en"}
+{"id": "rel_en_060", "text": "Eid al-Fitr marks the end of Ramadan with special prayers, charitable giving, and community celebration meals.", "label": "religion", "lang": "en"}
+{"id": "rel_en_061", "text": "Islamic marriage contracts specify mahr, a mandatory gift from groom to bride that remains her personal property.", "label": "religion", "lang": "en"}
+{"id": "rel_en_062", "text": "The Tao Te Ching, attributed to Laozi, presents foundational Taoist concepts of wu wei (effortless action) and natural harmony.", "label": "religion", "lang": "en"}
+{"id": "rel_en_063", "text": "Hadith collections contain reports of Muhammad's sayings and actions, with scholars classifying each as authentic, good, or weak.", "label": "religion", "lang": "en"}
+{"id": "rel_en_064", "text": "The concept of Ummah in Islam refers to the global community of Muslims united by shared faith regardless of ethnicity or nationality.", "label": "religion", "lang": "en"}
+{"id": "rel_en_065", "text": "Native American spiritual traditions vary widely but often emphasize relationship with land, ancestors, and non-human persons.", "label": "religion", "lang": "en"}
+{"id": "rel_en_066", "text": "Islamic inheritance law specifies fixed shares for spouses, children, parents, and siblings based on their relationship to the deceased.", "label": "religion", "lang": "en"}
+{"id": "rel_en_067", "text": "The Protestant Reformation began with Martin Luther's 95 Theses criticizing indulgences and papal authority.", "label": "religion", "lang": "en"}
+{"id": "rel_en_068", "text": "Sufism, or Islamic mysticism, emphasizes direct experiential knowledge of God through practices including dhikr (remembrance).", "label": "religion", "lang": "en"}
+{"id": "rel_en_069", "text": "The concept of Dharma in Indian religions denotes cosmic order, social duties, and religious teachings depending on context.", "label": "religion", "lang": "en"}
+{"id": "rel_en_070", "text": "Eid al-Adha commemorates Abraham's willingness to sacrifice his son and involves animal distribution to family and poor people.", "label": "religion", "lang": "en"}
+{"id": "rel_en_071", "text": "Islamic finance prohibits riba (interest) and gharar (excessive uncertainty), structuring transactions as profit-sharing or leasing arrangements.", "label": "religion", "lang": "en"}
+{"id": "rel_en_072", "text": "The Council of Nicaea in 325 CE established the Nicene Creed defining Jesus as consubstantial with the Father.", "label": "religion", "lang": "en"}
+{"id": "rel_en_073", "text": "The concept of Niyyah in Islam requires sincere intention for acts of worship to be valid and rewardable.", "label": "religion", "lang": "en"}
+{"id": "rel_en_074", "text": "Zoroastrianism's central duality between truth and falsehood influenced later Jewish, Christian, and Islamic angelology and demonology.", "label": "religion", "lang": "en"}
+{"id": "rel_en_075", "text": "Islamic calligraphy includes Kufic, Naskh, Thuluth, and other scripts used to transcribe Quranic verses and religious poetry.", "label": "religion", "lang": "en"}
+{"id": "rel_en_076", "text": "The concept of Taqwa in Islam describes God-consciousness that motivates believers to follow divine commands.", "label": "religion", "lang": "en"}
+{"id": "rel_en_077", "text": "The Amish practice of shunning, or Meidung, restricts social contact with excommunicated members to encourage repentance.", "label": "religion", "lang": "en"}
+{"id": "rel_en_078", "text": "Islamic jurisprudence distinguishes between acts required, recommended, permitted, disliked, and forbidden.", "label": "religion", "lang": "en"}
+{"id": "rel_en_079", "text": "The Dead Sea Scrolls contain Jewish religious texts from the Second Temple period, including biblical manuscripts.", "label": "religion", "lang": "en"}
+{"id": "rel_en_080", "text": "The concept of Tawbah in Islam describes repentance that requires ceasing wrongdoing, feeling remorse, and resolving not to return to sin.", "label": "religion", "lang": "en"}
+{"id": "rel_en_081", "text": "Japanese Shinto practices include purification rituals, offerings at shrines, and seasonal festivals honoring kami spirits.", "label": "religion", "lang": "en"}
+{"id": "rel_en_082", "text": "Islamic astronomy developed partly to calculate prayer times and determine the direction of Mecca for worship.", "label": "religion", "lang": "en"}
+{"id": "rel_en_083", "text": "The concept of Sabr in Islamic ethics refers to patience, perseverance, and steadfastness in facing difficulties.", "label": "religion", "lang": "en"}
+{"id": "rel_en_084", "text": "The Roman Catholic Vatican Council II introduced liturgical reforms including vernacular language worship and increased lay participation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_085", "text": "Islamic architecture features elements including the minaret, dome, mihrab (prayer niche), and minbar (pulpit).", "label": "religion", "lang": "en"}
+{"id": "rel_en_086", "text": "The concept of Fitra in Islam describes the innate human disposition toward recognition of one God.", "label": "religion", "lang": "en"}
+{"id": "rel_en_087", "text": "Rastafarian beliefs include the divinity of Haile Selassie I, the importance of cannabis as a sacrament, and African repatriation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_088", "text": "Islamic legal schools (madhahib) include Hanafi, Maliki, Shafi'i, Hanbali in Sunni Islam and Ja'fari in Shia Islam.", "label": "religion", "lang": "en"}
+{"id": "rel_en_089", "text": "The concept of Ihsan in Islam refers to worshiping God as if seeing Him, knowing He sees the worshiper.", "label": "religion", "lang": "en"}
+{"id": "rel_en_090", "text": "Unitarian Universalism draws from multiple religious traditions and does not require belief in any specific doctrine.", "label": "religion", "lang": "en"}
+{"id": "rel_en_091", "text": "Islamic views of Jesus recognize him as a prophet and Messiah, born to the Virgin Mary, but not divine or crucified.", "label": "religion", "lang": "en"}
+{"id": "rel_en_092", "text": "The concept of Hisba in Islamic governance authorizes authorities to command good and forbid evil in public spaces.", "label": "religion", "lang": "en"}
+{"id": "rel_en_093", "text": "Wiccan traditions observe eight seasonal festivals called Sabbats, including Samhain and Beltane.", "label": "religion", "lang": "en"}
+{"id": "rel_en_094", "text": "Islamic waqf (religious endowment) dedicates property in perpetuity for charitable or religious purposes.", "label": "religion", "lang": "en"}
+{"id": "rel_en_095", "text": "The concept of Dunya in Islamic thought refers to the material world as a temporary testing ground before the afterlife.", "label": "religion", "lang": "en"}
+{"id": "rel_en_096", "text": "The Qu'ranic term 'People of the Book' refers to Jews, Christians, and sometimes other religious communities with revealed scriptures.", "label": "religion", "lang": "en"}
+{"id": "rel_en_097", "text": "Islamic manuscript illumination decorated copies of the Quran with geometric and vegetal ornamentation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_098", "text": "The concept of Riya in Islamic ethics names showing off or performing worship for human approval as a spiritual vice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_099", "text": "Cao Dai, founded in 1920s Vietnam, synthesizes elements of Buddhism, Taoism, Confucianism, Christianity, and Islam.", "label": "religion", "lang": "en"}
+{"id": "rel_en_100", "text": "Islamic birth rituals include whispering the adhan in the newborn's right ear and performing aqiqah sacrifice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_101", "text": "The concept of Qadar in Islamic theology describes divine predestination while affirming human moral responsibility.", "label": "religion", "lang": "en"}
+{"id": "rel_en_102", "text": "Mormonism teaches that God the Father, Jesus Christ, and the Holy Spirit are three distinct beings with unified purpose.", "label": "religion", "lang": "en"}
+{"id": "rel_en_103", "text": "Islamic funeral practices include ritual washing, shrouding, funeral prayer, and burial without a casket facing Mecca.", "label": "religion", "lang": "en"}
+{"id": "rel_en_104", "text": "The concept of Ghazw in Islamic history describes religiously motivated raiding that predated and coexisted with formal jihad.", "label": "religion", "lang": "en"}
+{"id": "rel_en_105", "text": "Jain ahimsa doctrine requires avoiding harm to all living beings, including insects and plants, through vegetarianism and careful movement.", "label": "religion", "lang": "en"}
+{"id": "rel_en_106", "text": "Islamic intercession theology distinguishes between seeking God directly and requesting prayers from living righteous people.", "label": "religion", "lang": "en"}
+{"id": "rel_en_107", "text": "The concept of Bid'ah in Islam refers to religious innovations not rooted in Quran or authentic prophetic example.", "label": "religion", "lang": "en"}
+{"id": "rel_en_108", "text": "Coptic Christianity preserves the Alexandrian liturgical tradition and a distinct calendar for religious observances.", "label": "religion", "lang": "en"}
+{"id": "rel_en_109", "text": "Islamic dream interpretation developed as a scholarly discipline with manuals classifying symbols and their meanings.", "label": "religion", "lang": "en"}
+{"id": "rel_en_110", "text": "The concept of Haya in Islamic ethics combines modesty, shame, and restraint as a protective virtue.", "label": "religion", "lang": "en"}
+{"id": "rel_en_111", "text": "African diaspora religions like Vodou, Santeria, and Candomble blend West African traditions with Catholic elements.", "label": "religion", "lang": "en"}
+{"id": "rel_en_112", "text": "Islamic lunar months begin with the sighting of the new crescent moon, causing start dates to vary by location.", "label": "religion", "lang": "en"}
+{"id": "rel_en_113", "text": "The concept of Fasad in Islamic legal discourse describes corruption and disorder as a category requiring state intervention.", "label": "religion", "lang": "en"}
+{"id": "rel_en_114", "text": "Quaker worship features silent waiting for divine guidance, with vocal ministry arising from individual leadings.", "label": "religion", "lang": "en"}
+{"id": "rel_en_115", "text": "Islamic religious education includes memorization of Quran, study of hadith, jurisprudence, and Arabic language.", "label": "religion", "lang": "en"}
+{"id": "rel_en_116", "text": "The concept of Hikmah in Islamic thought encompasses wisdom that integrates revealed knowledge with rational understanding.", "label": "religion", "lang": "en"}
+{"id": "rel_en_117", "text": "Baha'i teachings emphasize progressive revelation through messengers including Abraham, Moses, Krishna, Buddha, Jesus, Muhammad, and Baha'u'llah.", "label": "religion", "lang": "en"}
+{"id": "rel_en_118", "text": "Islamic iconoclasm historically rejected anthropomorphic images in religious contexts while permitting secular figural art.", "label": "religion", "lang": "en"}
+{"id": "rel_en_119", "text": "The concept of Tawakkul in Islam describes reliance on God after taking legitimate means and actions.", "label": "religion", "lang": "en"}
+{"id": "rel_en_120", "text": "The Ethiopian Orthodox Tewahedo Church recognizes additional biblical books and practices Saturday and Sunday Sabbaths.", "label": "religion", "lang": "en"}
+{"id": "rel_en_121", "text": "Islamic charity beyond obligatory zakat includes sadaqah (voluntary giving) and sadaqah jariyah (ongoing charity).", "label": "religion", "lang": "en"}
+{"id": "rel_en_122", "text": "The concept of Adab in Islamic tradition covers etiquette, refinement, and cultivated virtues across religious and social contexts.", "label": "religion", "lang": "en"}
+{"id": "rel_en_123", "text": "Secularism as a concept includes separation of religious institutions from state authority, freedom of belief, and religious neutrality.", "label": "religion", "lang": "en"}
+{"id": "rel_en_124", "text": "Islamic pilgrimage rituals include tawaf (circling the Kaaba seven times), sa'i (walking between Safa and Marwah), and standing at Arafat.", "label": "religion", "lang": "en"}
+{"id": "rel_en_125", "text": "The concept of Jahannam in Islamic eschatology describes hell as a place of fire, punishment, and divine absence.", "label": "religion", "lang": "en"}
+{"id": "rel_en_126", "text": "Mennonite theology emphasizes nonviolence, adult baptism, and separation from worldly power structures.", "label": "religion", "lang": "en"}
+{"id": "rel_en_127", "text": "Islamic marriage requires the woman's consent, a written contract, and two Muslim witnesses according to majority views.", "label": "religion", "lang": "en"}
+{"id": "rel_en_128", "text": "The concept of Fiqh al-Aqalliyat addresses legal questions specific to Muslims living as minorities in non-Muslim societies.", "label": "religion", "lang": "en"}
+{"id": "rel_en_129", "text": "Druze theology incorporates Isma'ili Shia, Neoplatonic, and Gnostic elements while maintaining secrecy about core doctrines.", "label": "religion", "lang": "en"}
+{"id": "rel_en_130", "text": "Islamic concepts of holy war (jihad) distinguish between defensive armed struggle, internal spiritual struggle, and other meanings.", "label": "religion", "lang": "en"}
+{"id": "rel_en_131", "text": "You know how Muslims pray five times a day? The times shift based on the sun's position, so prayer schedules change daily.", "label": "religion", "lang": "en"}
+{"id": "rel_en_132", "text": "So, Ramadan fasting isn't just about not eating - Muslims also avoid drinking water, which makes it harder in hot climates.", "label": "religion", "lang": "en"}
+{"id": "rel_en_133", "text": "Have you noticed that Islamic art uses a lot of calligraphy? That's because many Muslims believe drawing prophets or God is inappropriate.", "label": "religion", "lang": "en"}
+{"id": "rel_en_134", "text": "Why do mosques have domes and minarets? Domes help with acoustics and air circulation, while minarets were originally for the call to prayer.", "label": "religion", "lang": "en"}
+{"id": "rel_en_135", "text": "Think about how Hindus have many gods but also believe in a single ultimate reality called Brahman - it's complicated.", "label": "religion", "lang": "en"}
+{"id": "rel_en_136", "text": "When Muslims say 'peace be upon him' after mentioning Muhammad's name, that's considered a religious obligation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_137", "text": "Ever wonder why Muslims use a lunar calendar? It was the traditional Arabian system, and the Quran didn't change it.", "label": "religion", "lang": "en"}
+{"id": "rel_en_138", "text": "The Islamic concept of halal isn't just about food - it covers finance, behavior, clothing, and many other life areas.", "label": "religion", "lang": "en"}
+{"id": "rel_en_139", "text": "You might hear about Sufi whirling - it's actually a meditation practice meant to represent celestial orbits.", "label": "religion", "lang": "en"}
+{"id": "rel_en_140", "text": "Why do some Muslim women wear hijab while others don't? Interpretations of Quranic modesty verses vary widely.", "label": "religion", "lang": "en"}
+{"id": "rel_en_141", "text": "Think about how different Christian denominations celebrate Easter - some focus on sunrise services, others on Saturday vigils.", "label": "religion", "lang": "en"}
+{"id": "rel_en_142", "text": "In Islam, Friday isn't a sabbath like Saturday for Jews or Sunday for Christians - it's just the day for congregational prayer.", "label": "religion", "lang": "en"}
+{"id": "rel_en_143", "text": "Have you noticed how Islamic prayer involves bowing and prostrating? That's meant to show complete submission to God.", "label": "religion", "lang": "en"}
+{"id": "rel_en_144", "text": "The Quran mentions Jesus more often than Muhammad - specifically, Mary gets her own chapter named after her.", "label": "religion", "lang": "en"}
+{"id": "rel_en_145", "text": "Why do Jews keep kosher? The Torah gives specific reasons for some rules, but others are considered divine commands without explanation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_146", "text": "In Islamic finance, banks can't charge interest, so they buy an asset and sell it to you at a markup with delayed payment instead.", "label": "religion", "lang": "en"}
+{"id": "rel_en_147", "text": "Think about how Buddhist monks shave their heads - it's partly about humility and partly about reducing attachment to appearance.", "label": "religion", "lang": "en"}
+{"id": "rel_en_148", "text": "The Islamic pilgrimage, Hajj, requires wearing simple white garments so everyone looks similar regardless of wealth.", "label": "religion", "lang": "en"}
+{"id": "rel_en_149", "text": "You know how some Christians use rosaries? Muslims use prayer beads too, usually with 33 or 99 beads for God's names.", "label": "religion", "lang": "en"}
+{"id": "rel_en_150", "text": "Why do Muslims face Mecca to pray? That practice started after Muhammad received Quranic instruction to change direction from Jerusalem.", "label": "religion", "lang": "en"}
+{"id": "rel_en_151", "text": "In Islamic marriage, the mahr gift belongs to the wife completely - she can spend, save, or invest it without her husband's permission.", "label": "religion", "lang": "en"}
+{"id": "rel_en_152", "text": "Think about how Hindu cremation releases the soul from the body, while Muslims and Jews bury their dead as quickly as possible.", "label": "religion", "lang": "en"}
+{"id": "rel_en_153", "text": "Have you noticed that Islamic months don't match seasons? A lunar year is about 11 days shorter than a solar year.", "label": "religion", "lang": "en"}
+{"id": "rel_en_154", "text": "The concept of jihad in mainstream Islamic teaching focuses more on spiritual struggle than warfare - that's a later political development.", "label": "religion", "lang": "en"}
+{"id": "rel_en_155", "text": "Why do Muslims say 'inshallah' (God willing) so often? It comes from a Quranic verse about not saying you'll do something tomorrow without adding that phrase.", "label": "religion", "lang": "en"}
+{"id": "rel_en_156", "text": "In Islamic law, accidental killing requires freeing a slave or fasting for two months - not monetary compensation to the family.", "label": "religion", "lang": "en"}
+{"id": "rel_en_157", "text": "Think about how Zoroastrians leave bodies in towers for vultures - they don't want to pollute earth with burial or fire with cremation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_158", "text": "Why do Shia Muslims commemorate Ashura differently from Sunnis? It marks the death of Hussein, Muhammad's grandson, at Karbala.", "label": "religion", "lang": "en"}
+{"id": "rel_en_159", "text": "Islamic prayer can be done anywhere clean, not just mosques - Muhammad said the whole earth was made a place of worship.", "label": "religion", "lang": "en"}
+{"id": "rel_en_160", "text": "You know how some religions have monasticism? Islam generally doesn't - Muhammad discouraged celibacy and withdrawal from worldly life.", "label": "religion", "lang": "en"}
+{"id": "rel_en_161", "text": "In Islamic eschatology, the Dajjal (anti-Christ figure) appears before the end times, but Muslim belief differs from Christian antichrist concepts.", "label": "religion", "lang": "en"}
+{"id": "rel_en_162", "text": "Why do Muslims break their fast with dates and water? That's what Muhammad reportedly did, so followers imitate his example.", "label": "religion", "lang": "en"}
+{"id": "rel_en_163", "text": "Think about how Hindu temples face east toward the rising sun, similar to how mosques face Mecca and churches face Jerusalem.", "label": "religion", "lang": "en"}
+{"id": "rel_en_164", "text": "The Islamic prohibition of alcohol extends to any intoxicant in large quantities, including drugs, even in small amounts.", "label": "religion", "lang": "en"}
+{"id": "rel_en_165", "text": "Have you wondered why Islamic art uses so many geometric patterns? They represent the infinite nature of God through repetition.", "label": "religion", "lang": "en"}
+{"id": "rel_en_166", "text": "In Islam, dogs are considered ritually impure, but they're allowed for guarding, hunting, and assistance for blind people.", "label": "religion", "lang": "en"}
+{"id": "rel_en_167", "text": "Why do Muslims wash before prayer? The Quran mentions cleanliness as related to piety, and ritual purification removes minor ritual impurities.", "label": "religion", "lang": "en"}
+{"id": "rel_en_168", "text": "Think about how different religions handle divorce - Islam permits it but discourages it, and Catholic tradition forbids remarriage after divorce.", "label": "religion", "lang": "en"}
+{"id": "rel_en_169", "text": "The Islamic concept of barakah means blessings can transfer from holy people to others through contact or proximity.", "label": "religion", "lang": "en"}
+{"id": "rel_en_170", "text": "You might notice that Muslims don't usually say 'Muhammad' without adding 'peace be upon him' - it's considered disrespectful to omit.", "label": "religion", "lang": "en"}
+{"id": "rel_en_171", "text": "Why do Sikhs wear turbans and keep uncut hair? It's a religious identity marker and symbol of commitment to equality.", "label": "religion", "lang": "en"}
+{"id": "rel_en_172", "text": "In Islamic history, the Battle of Badr was a small military engagement but huge religious significance as divine validation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_173", "text": "Think about how Buddhist meditation isn't just sitting - walking meditation and daily mindfulness are equally important practices.", "label": "religion", "lang": "en"}
+{"id": "rel_en_174", "text": "Islamic inheritance shares are fixed in the Quran, so Muslims can only will one-third of their wealth to non-heirs.", "label": "religion", "lang": "en"}
+{"id": "rel_en_175", "text": "Have you ever seen the crescent moon symbol associated with Islam? That originated with the Ottoman Empire, not early Islam.", "label": "religion", "lang": "en"}
+{"id": "rel_en_176", "text": "Why do some Islamic scholars permit music while others forbid it? Hadith contain contradictory statements on musical instruments.", "label": "religion", "lang": "en"}
+{"id": "rel_en_177", "text": "In Islamic law, apostasy historically carried the death penalty, but modern scholars debate whether that applies with religious freedom.", "label": "religion", "lang": "en"}
+{"id": "rel_en_178", "text": "Think about how the Hajj pilgrimage includes throwing stones at pillars representing Satan - it commemorates Abraham's rejection of temptation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_179", "text": "The Islamic term 'ummah' goes beyond nationality - converts around the world become part of the same religious community.", "label": "religion", "lang": "en"}
+{"id": "rel_en_180", "text": "Why do Muslims say 'Allahu Akbar' (God is greatest) in various contexts, including prayer and everyday expressions?", "label": "religion", "lang": "en"}
+{"id": "rel_en_181", "text": "In Islamic dream interpretation, seeing the Prophet Muhammad in a dream is considered particularly significant and veridical.", "label": "religion", "lang": "en"}
+{"id": "rel_en_182", "text": "Think about how Confucianism is sometimes called a religion and sometimes a philosophy - it depends how you define religion.", "label": "religion", "lang": "en"}
+{"id": "rel_en_183", "text": "Islamic jurisprudence divides the world into dar al-Islam (house of Islam) and dar al-harb (house of war) in classical theory.", "label": "religion", "lang": "en"}
+{"id": "rel_en_184", "text": "You know how some Christians speak in tongues? In Islam, that's not recognized as a spiritual gift or practice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_185", "text": "Why do Muslims hold funerals quickly, ideally within 24 hours? It follows Muhammad's example of prompt burial without embalming.", "label": "religion", "lang": "en"}
+{"id": "rel_en_186", "text": "In Islam, the black stone of the Kaaba is kissed or touched during pilgrimage, but it's revered as a relic, not worshipped.", "label": "religion", "lang": "en"}
+{"id": "rel_en_187", "text": "Think about how Native American sweat lodge ceremonies combine physical cleansing with spiritual purification and prayer.", "label": "religion", "lang": "en"}
+{"id": "rel_en_188", "text": "Islamic law requires that slaughtered animals have their throat cut while alive and facing Mecca, with God's name pronounced.", "label": "religion", "lang": "en"}
+{"id": "rel_en_189", "text": "Why do some Muslims use miswak sticks for teeth cleaning? Muhammad recommended them, and they're considered sunnah (prophetic practice).", "label": "religion", "lang": "en"}
+{"id": "rel_en_190", "text": "In Islamic eschatology, Jesus returns as a follower of Islam, breaks crosses, kills the Dajjal, and establishes justice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_191", "text": "Think about how Pagan Yule traditions influenced Christmas - evergreen trees, wreaths, and yule logs have pre-Christian origins.", "label": "religion", "lang": "en"}
+{"id": "rel_en_192", "text": "Islamic architecture often includes water features for ritual washing before prayer and for cooling in hot climates.", "label": "religion", "lang": "en"}
+{"id": "rel_en_193", "text": "Why do Shia Muslims combine noon and afternoon prayers while Sunnis usually pray them separately? Different hadith interpretations.", "label": "religion", "lang": "en"}
+{"id": "rel_en_194", "text": "In Islam, the angel Jibril (Gabriel) delivered the Quran to Muhammad over approximately 23 years, not all at once.", "label": "religion", "lang": "en"}
+{"id": "rel_en_195", "text": "Think about how religious calendars mark time differently - Islamic years count from Muhammad's migration (Hijra) in 622 CE.", "label": "religion", "lang": "en"}
+{"id": "rel_en_196", "text": "The Islamic concept of mubahala describes a mutual curse invoked when two parties disagree about religious truth.", "label": "religion", "lang": "en"}
+{"id": "rel_en_197", "text": "Why do some Muslim women cover their faces while others cover only hair? Quranic text mentions covering bosoms but face veil is interpretation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_198", "text": "In Islamic law, meat slaughtered by People of the Book (Jews, Christians) is permitted if not dedicated to other gods.", "label": "religion", "lang": "en"}
+{"id": "rel_en_199", "text": "Think about how Hindu festivals follow lunar cycles like Islamic holidays, but also incorporate solar elements.", "label": "religion", "lang": "en"}
+{"id": "rel_en_200", "text": "Islamic views of evolution vary - some scholars accept it entirely, others reject human evolution while accepting animal evolution.", "label": "religion", "lang": "en"}
+{"id": "rel_en_201", "text": "Why do Muslims circle the Kaaba seven times counterclockwise? The direction follows cosmic patterns and prophetic practice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_202", "text": "In Islam, the night of Laylat al-Qadr is considered better than 1,000 months - it commemorates the first Quran revelation.", "label": "religion", "lang": "en"}
+{"id": "rel_en_203", "text": "Think about how Jain monks sweep the ground before walking to avoid crushing insects - extreme application of nonviolence.", "label": "religion", "lang": "en"}
+{"id": "rel_en_204", "text": "Islamic jurisprudence has no official priesthood - imams are prayer leaders and scholars without sacramental power.", "label": "religion", "lang": "en"}
+{"id": "rel_en_205", "text": "Why do Muslims avoid images of Muhammad in art and media? To prevent idolatry and veneration of the prophet as divine.", "label": "religion", "lang": "en"}
+{"id": "rel_en_206", "text": "The concept of transcendence in Islam emphasizes God's absolute otherness beyond human categories and spatial-temporal limits.", "label": "religion", "lang": "en"}
+{"id": "rel_en_207", "text": "Religious epistemology examines how faith commitments relate to evidence, reason, and personal experience as knowledge sources.", "label": "religion", "lang": "en"}
+{"id": "rel_en_208", "text": "The problem of evil in Islamic theology addresses how divine justice and mercy coexist with human and natural suffering.", "label": "religion", "lang": "en"}
+{"id": "rel_en_209", "text": "Sacred time in religious traditions alternates between cyclical and linear conceptions of cosmic history and individual destiny.", "label": "religion", "lang": "en"}
+{"id": "rel_en_210", "text": "The concept of revelation in Islam distinguishes between the literal, recited Quran and non-recited prophetic inspiration.", "label": "religion", "lang": "en"}
+{"id": "rel_en_211", "text": "Religious language analysis asks whether statements about God are propositional, symbolic, or expressive in their meaning.", "label": "religion", "lang": "en"}
+{"id": "rel_en_212", "text": "The doctrine of divine simplicity in classical theism holds that God has no parts or separable attributes.", "label": "religion", "lang": "en"}
+{"id": "rel_en_213", "text": "Islamic theological debates about the createdness versus uncreatedness of the Quran shaped early intellectual history.", "label": "religion", "lang": "en"}
+{"id": "rel_en_214", "text": "Mystical experience across traditions shares features including ineffability, noetic quality, transiency, and passivity.", "label": "religion", "lang": "en"}
+{"id": "rel_en_215", "text": "The concept of shirk in Islam names the unforgivable sin of associating partners with God's exclusive divinity.", "label": "religion", "lang": "en"}
+{"id": "rel_en_216", "text": "Religious pluralism as a theological position claims that different religions are valid paths to the same ultimate reality.", "label": "religion", "lang": "en"}
+{"id": "rel_en_217", "text": "Islamic political theology has addressed questions of legitimate authority, rebellion, and governance since the early caliphate.", "label": "religion", "lang": "en"}
+{"id": "rel_en_218", "text": "Ritual theory analyzes how repeated, structured actions transform participants' perceptions and social relationships.", "label": "religion", "lang": "en"}
+{"id": "rel_en_219", "text": "The concept of barzakh in Islamic eschatology describes the intermediate state between death and resurrection.", "label": "religion", "lang": "en"}
+{"id": "rel_en_220", "text": "Comparative religious ethics examines how different traditions derive moral norms from scriptures, reason, and authority.", "label": "religion", "lang": "en"}
+{"id": "rel_en_221", "text": "Islamic salvation theology includes concepts of divine mercy, intercession, and the possible temporary nature of hell punishment.", "label": "religion", "lang": "en"}
+{"id": "rel_en_222", "text": "The sociology of religion studies how beliefs and practices vary with class, ethnicity, gender, and generational change.", "label": "religion", "lang": "en"}
+{"id": "rel_en_223", "text": "The concept of khalifa in Islam describes human vicegerency - responsibility to manage earth on God's behalf.", "label": "religion", "lang": "en"}
+{"id": "rel_en_224", "text": "Religious fundamentalism as an analytic term describes selective return to perceived origins in response to modernity.", "label": "religion", "lang": "en"}
+{"id": "rel_en_225", "text": "Islamic environmental theology derives stewardship ethics from concepts of balance, waste prohibition, and creation's purpose.", "label": "religion", "lang": "en"}
+{"id": "rel_en_226", "text": "The concept of nafs in Islamic psychology encompasses the self or soul with dimensions including appetitive, irascible, and rational aspects.", "label": "religion", "lang": "en"}
+{"id": "rel_en_227", "text": "Phenomenology of religion brackets questions of truth to describe religious experience as intentional consciousness.", "label": "religion", "lang": "en"}
+{"id": "rel_en_228", "text": "Islamic legal theory's concept of maslaha (public interest) allows jurists to consider social consequences in rulings.", "label": "religion", "lang": "en"}
+{"id": "rel_en_229", "text": "The secularization thesis, now debated, claimed that modernization inevitably reduces religious belief and practice.", "label": "religion", "lang": "en"}
+{"id": "rel_en_230", "text": "The concept of ismah in Shia theology attributes sinless infallibility to prophets and the twelve imams.", "label": "religion", "lang": "en"}
+{"id": "rel_en_231", "text": "Religious conversion as a process involves changes in identity, practice, belief, and community belonging over time.", "label": "religion", "lang": "en"}
+{"id": "rel_en_232", "text": "Islamic theological schools include Ash'ari, Maturidi, and Mu'tazili differing on free will, divine attributes, and reason.", "label": "religion", "lang": "en"}
+{"id": "rel_en_233", "text": "The concept of hierophany, sacred appearing, describes how ordinary objects and events become vehicles for encountering the divine.", "label": "religion", "lang": "en"}
+{"id": "rel_en_234", "text": "Islamic gender jurisprudence has produced debates about women's roles as judges, leaders, and scholars across history.", "label": "religion", "lang": "en"}
+{"id": "rel_en_235", "text": "The philosophy of religion examines arguments for and against divine existence, attributes, and actions.", "label": "religion", "lang": "en"}
+{"id": "rel_en_236", "text": "The concept of hikmah in Islamic thought integrates theoretical wisdom about creation and practical wisdom about conduct.", "label": "religion", "lang": "en"}
+{"id": "rel_en_237", "text": "Religious syncretism describes how traditions blend elements from different sources into new, coherent systems.", "label": "religion", "lang": "en"}
+{"id": "rel_en_238", "text": "Islamic hermeneutics has developed methods for interpreting Quranic verses as abrogating, specifying, or generalizing each other.", "label": "religion", "lang": "en"}
+{"id": "rel_en_239", "text": "The concept of orthodoxy and orthopraxy distinguish correct belief from correct practice as central religious priorities.", "label": "religion", "lang": "en"}
+{"id": "rel_en_240", "text": "Islamic cosmology includes seven heavens, divine throne, preserved tablet, and other metaphysical realms beyond physical perception.", "label": "religion", "lang": "en"}
+{"id": "rel_en_241", "text": "Ritual purity systems across religions classify persons, objects, and times as pure or impure with associated access restrictions.", "label": "religion", "lang": "en"}
+{"id": "rel_en_242", "text": "Islamic concepts of spiritual heart (qalb) locate faculties of understanding, intention, and moral perception in non-physical centers.", "label": "religion", "lang": "en"}
+{"id": "rel_en_243", "text": "The psychology of religion studies prayer, meditation, and rituals' effects on attention, emotion, and wellbeing.", "label": "religion", "lang": "en"}
+{"id": "rel_en_244", "text": "The concept of fitnah in Islamic discourse originally meant trial or persecution, later extending to sedition and civil strife.", "label": "religion", "lang": "en"}
+{"id": "rel_en_245", "text": "Religious existentialism explores themes of anxiety, authenticity, and meaning in relation to transcendent dimensions of existence.", "label": "religion", "lang": "en"}
+{"id": "rel_en_246", "text": "Islamic ethics distinguishes between acts based on intention, outward compliance, and spiritual states of the doer.", "label": "religion", "lang": "en"}
+{"id": "rel_en_247", "text": "The concept of taqlid in Islamic law authorizes non-specialists to follow scholars' rulings without independent reasoning.", "label": "religion", "lang": "en"}
+{"id": "rel_en_248", "text": "Religion and science dialogue addresses creation, evolution, mind, and origins as areas of potential compatibility or conflict.", "label": "religion", "lang": "en"}
+{"id": "rel_en_249", "text": "The concept of du'a in Islamic spirituality describes personal supplication distinct from formal ritual prayer's fixed recitations.", "label": "religion", "lang": "en"}
+{"id": "rel_en_250", "text": "Interfaith dialogue methodologies include conversational, collaborative, and comparative approaches to mutual understanding.", "label": "religion", "lang": "en"}
+{"id": "pol_en_001", "text": "Explain how democracy differs from authoritarian government.", "label": "politics", "lang": "en"}
+{"id": "pol_en_002", "text": "What factors influence voter behavior during elections?", "label": "politics", "lang": "en"}
+{"id": "pol_en_003", "text": "How do political campaigns persuade undecided voters?", "label": "politics", "lang": "en"}
+{"id": "pol_en_004", "text": "Should citizens criticize government policies publicly?", "label": "politics", "lang": "en"}
+{"id": "pol_en_005", "text": "What are the arguments for and against economic sanctions?", "label": "politics", "lang": "en"}
+{"id": "pol_en_006", "text": "How do governments use propaganda to influence public opinion?", "label": "politics", "lang": "en"}
+{"id": "pol_en_007", "text": "Explain the role of political parties in a democracy.", "label": "politics", "lang": "en"}
+{"id": "pol_en_008", "text": "What causes political polarization in society?", "label": "politics", "lang": "en"}
+{"id": "pol_en_009", "text": "Should governments regulate political speech on social media?", "label": "politics", "lang": "en"}
+{"id": "pol_en_010", "text": "Compare presidential and parliamentary political systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_011", "text": "What are the political consequences of large-scale protests?", "label": "politics", "lang": "en"}
+{"id": "pol_en_012", "text": "How do international sanctions affect a country's economy?", "label": "politics", "lang": "en"}
+{"id": "pol_en_013", "text": "What are common techniques used in political persuasion?", "label": "politics", "lang": "en"}
+{"id": "pol_en_014", "text": "Should political leaders have term limits?", "label": "politics", "lang": "en"}
+{"id": "pol_en_015", "text": "Explain the relationship between nationalism and politics.", "label": "politics", "lang": "en"}
+{"id": "pol_en_016", "text": "What role does public opinion play in government decision-making?", "label": "politics", "lang": "en"}
+{"id": "pol_en_017", "text": "How do censorship policies affect freedom of expression?", "label": "politics", "lang": "en"}
+{"id": "pol_en_018", "text": "What are the causes of political instability in a country?", "label": "politics", "lang": "en"}
+{"id": "pol_en_019", "text": "How do geopolitical conflicts influence international relations?", "label": "politics", "lang": "en"}
+{"id": "pol_en_020", "text": "Discuss the impact of government corruption on public trust.", "label": "politics", "lang": "en"}
+{"id": "pol_en_021", "text": "What are the responsibilities of elected officials?", "label": "politics", "lang": "en"}
+{"id": "pol_en_022", "text": "How do political movements gain support among citizens?", "label": "politics", "lang": "en"}
+{"id": "pol_en_023", "text": "Explain the concept of regime change in political science.", "label": "politics", "lang": "en"}
+{"id": "pol_en_024", "text": "Should governments restrict political opposition groups?", "label": "politics", "lang": "en"}
+{"id": "pol_en_025", "text": "How do state-controlled media shape political narratives?", "label": "politics", "lang": "en"}
+{"id": "pol_en_026", "text": "Who is Ali Khamenei and what role does he play in Iran's political system?", "label": "politics", "lang": "en"}
+{"id": "pol_en_027", "text": "Is Ali Khamenei a dictator? Discuss arguments made by supporters and critics.", "label": "politics", "lang": "en"}
+{"id": "pol_en_028", "text": "How does the Iranian government respond to political dissent?", "label": "politics", "lang": "en"}
+{"id": "pol_en_029", "text": "What are the political causes and consequences of protests in Iran?", "label": "politics", "lang": "en"}
+{"id": "pol_en_030", "text": "How do debates about freedom of speech affect politics in Iran?", "label": "politics", "lang": "en"}
+{"id": "pol_en_031", "text": "The Iranian parliament, known as the Majlis, reviews and approves legislation proposed by the government.", "label": "politics", "lang": "en"}
+{"id": "pol_en_032", "text": "Elections in parliamentary systems often result in coalition governments when no single party achieves a majority.", "label": "politics", "lang": "en"}
+{"id": "pol_en_033", "text": "Value-added tax rates vary significantly between European Union member states, from 17% to 27%.", "label": "politics", "lang": "en"}
+{"id": "pol_en_034", "text": "The United Nations Security Council includes five permanent members with veto power and ten rotating members.", "label": "politics", "lang": "en"}
+{"id": "pol_en_035", "text": "Public administration theory distinguishes between traditional hierarchical models and new public management approaches.", "label": "politics", "lang": "en"}
+{"id": "pol_en_036", "text": "Iran's Guardian Council vets candidates for parliamentary and presidential elections based on their adherence to constitutional principles.", "label": "politics", "lang": "en"}
+{"id": "pol_en_037", "text": "Fiscal policy tools include government spending adjustments and tax rate modifications to influence economic activity.", "label": "politics", "lang": "en"}
+{"id": "pol_en_038", "text": "Bilateral trade agreements between medium-sized economies often focus on reducing tariffs on agricultural and manufactured goods.", "label": "politics", "lang": "en"}
+{"id": "pol_en_039", "text": "The separation of powers doctrine divides government into executive, legislative, and judicial branches.", "label": "politics", "lang": "en"}
+{"id": "pol_en_040", "text": "Voter turnout in local elections tends to be lower than in national elections across most democratic systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_041", "text": "Iran's Supreme Leader holds authority over the armed forces, judiciary, and state broadcasting.", "label": "politics", "lang": "en"}
+{"id": "pol_en_042", "text": "Proportional representation electoral systems allocate legislative seats based on the percentage of votes each party receives.", "label": "politics", "lang": "en"}
+{"id": "pol_en_043", "text": "Central banks use interest rate adjustments as a primary tool to manage inflation and employment levels.", "label": "politics", "lang": "en"}
+{"id": "pol_en_044", "text": "Diplomatic recognition of new states involves complex considerations of international law and geopolitical interests.", "label": "politics", "lang": "en"}
+{"id": "pol_en_045", "text": "The Iranian Revolutionary Guards Corps operates as a separate military force with economic and political influence.", "label": "politics", "lang": "en"}
+{"id": "pol_en_046", "text": "Budget deficit financing through bond issuance can lead to increased public debt-to-GDP ratios over time.", "label": "politics", "lang": "en"}
+{"id": "pol_en_047", "text": "Presidential systems feature a directly elected executive who is not dependent on legislative confidence to remain in office.", "label": "politics", "lang": "en"}
+{"id": "pol_en_048", "text": "Sanctions regimes against nations typically target financial systems, energy exports, and military procurement networks.", "label": "politics", "lang": "en"}
+{"id": "pol_en_049", "text": "Iran's Ministry of Petroleum oversees the country's oil and gas production, which constitutes a major revenue source.", "label": "politics", "lang": "en"}
+{"id": "pol_en_050", "text": "Political polarization increases when media ecosystems deliver ideologically distinct information to different audiences.", "label": "politics", "lang": "en"}
+{"id": "pol_en_051", "text": "The Iranian Assembly of Experts is responsible for electing and supervising the Supreme Leader.", "label": "politics", "lang": "en"}
+{"id": "pol_en_052", "text": "Tax progressivity means that higher-income individuals pay a larger percentage of their income in taxes than lower-income individuals.", "label": "politics", "lang": "en"}
+{"id": "pol_en_053", "text": "Federal systems divide sovereignty between national and subnational governments, each with constitutionally protected powers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_054", "text": "Lobbying regulations in different countries range from mandatory registration to complete prohibition of political donations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_055", "text": "Iran's foreign policy doctrine emphasizes regional influence and resistance to Western intervention in Middle Eastern affairs.", "label": "politics", "lang": "en"}
+{"id": "pol_en_056", "text": "Public goods theory explains why national defense, street lighting, and clean air are typically government-provided services.", "label": "politics", "lang": "en"}
+{"id": "pol_en_057", "text": "Electoral districting decisions can influence political representation through gerrymandering practices.", "label": "politics", "lang": "en"}
+{"id": "pol_en_058", "text": "The Iranian currency, the rial, has experienced significant devaluation against the US dollar since 2018.", "label": "politics", "lang": "en"}
+{"id": "pol_en_059", "text": "Multilateral organizations like the World Trade Organization establish dispute resolution mechanisms for trade conflicts.", "label": "politics", "lang": "en"}
+{"id": "pol_en_060", "text": "Government subsidies for renewable energy projects aim to reduce carbon emissions while supporting domestic manufacturing.", "label": "politics", "lang": "en"}
+{"id": "pol_en_061", "text": "Iran's strategic position along the Strait of Hormuz gives it leverage over global oil shipping routes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_062", "text": "Term limits for legislators are intended to prevent career politicians from accumulating excessive institutional power.", "label": "politics", "lang": "en"}
+{"id": "pol_en_063", "text": "Progressive tax systems face debates about optimal marginal rates at the highest income brackets.", "label": "politics", "lang": "en"}
+{"id": "pol_en_064", "text": "The Iranian nuclear program, officially described as peaceful, has been subject to international inspection protocols.", "label": "politics", "lang": "en"}
+{"id": "pol_en_065", "text": "Clientelism occurs when politicians distribute material benefits to voters in exchange for electoral support.", "label": "politics", "lang": "en"}
+{"id": "pol_en_066", "text": "Unitary states concentrate legislative authority at the national level, though they may delegate administrative functions to regions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_067", "text": "Iran's Expediency Discernment Council resolves legislative disputes between the parliament and the Guardian Council.", "label": "politics", "lang": "en"}
+{"id": "pol_en_068", "text": "Corporate tax rates influence where multinational companies choose to locate their headquarters and production facilities.", "label": "politics", "lang": "en"}
+{"id": "pol_en_069", "text": "Referendums allow citizens to vote directly on specific policy questions rather than through representative institutions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_070", "text": "The Iranian judiciary operates under the supervision of the Supreme Leader, who appoints the head of the judiciary.", "label": "politics", "lang": "en"}
+{"id": "pol_en_071", "text": "Public pension systems face sustainability challenges as demographic shifts increase the ratio of retirees to workers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_072", "text": "Shadow economies reduce tax revenues and may lead to underprovision of public services in affected regions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_073", "text": "Iran's relationship with Russia includes cooperation on military equipment, energy projects, and diplomatic alignment.", "label": "politics", "lang": "en"}
+{"id": "pol_en_074", "text": "Primary elections are used by political parties to select their candidates for general elections in several democratic systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_075", "text": "Regulatory impact assessments analyze potential costs and benefits before government agencies issue new rules.", "label": "politics", "lang": "en"}
+{"id": "pol_en_076", "text": "The Iranian broadcast media environment includes state-controlled television and a mix of licensed and unlicensed online outlets.", "label": "politics", "lang": "en"}
+{"id": "pol_en_077", "text": "Government procurement contracts account for approximately 10-15% of GDP in developed economies.", "label": "politics", "lang": "en"}
+{"id": "pol_en_078", "text": "Political patronage systems distribute government jobs and contracts to supporters rather than through merit-based processes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_079", "text": "Iran's provincial governors are appointed by the Ministry of Interior, not directly elected by local populations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_080", "text": "Carbon taxes impose a fee on fossil fuel combustion proportional to the carbon content of each fuel type.", "label": "politics", "lang": "en"}
+{"id": "pol_en_081", "text": "The Iranian parliament can question and impeach ministers, though successful removal requires majority votes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_082", "text": "Election observation missions from international organizations assess the fairness and transparency of voting processes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_083", "text": "Government-owned enterprises in sectors like transportation and energy operate under different incentives than private firms.", "label": "politics", "lang": "en"}
+{"id": "pol_en_084", "text": "Iran's demographic composition includes Persian, Azeri, Kurdish, Arab, Baloch, and Turkmen ethnic groups with different political interests.", "label": "politics", "lang": "en"}
+{"id": "pol_en_085", "text": "Minimum wage policies set hourly or monthly earnings floors to protect low-income workers from exploitation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_086", "text": "Legislative oversight committees review executive branch actions through hearings, document requests, and investigations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_087", "text": "Iran's military spending as a percentage of GDP is comparable to other Middle Eastern nations with regional security concerns.", "label": "politics", "lang": "en"}
+{"id": "pol_en_088", "text": "Public-private partnerships for infrastructure projects allocate construction risk differently than traditional government contracting.", "label": "politics", "lang": "en"}
+{"id": "pol_en_089", "text": "Electoral thresholds prevent very small parties from winning legislative seats, reducing parliamentary fragmentation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_090", "text": "Iran's Ministry of Intelligence and National Security conducts domestic and foreign intelligence operations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_091", "text": "Wealth taxes apply to net asset values rather than income flows, creating different compliance challenges.", "label": "politics", "lang": "en"}
+{"id": "pol_en_092", "text": "Coalition governments require negotiation of policy compromises and distribution of ministerial positions among parties.", "label": "politics", "lang": "en"}
+{"id": "pol_en_093", "text": "Iran's oil export revenues have fluctuated significantly based on global prices and the number of international buyers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_094", "text": "Judicial review allows courts to invalidate legislation that violates constitutional provisions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_095", "text": "Government responses to economic recessions typically include stimulus spending and unemployment benefit extensions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_096", "text": "Iran's education system includes both public universities and Islamic Azad University, a private network of campuses.", "label": "politics", "lang": "en"}
+{"id": "pol_en_097", "text": "Political action committees aggregate campaign contributions from members to support or oppose candidates.", "label": "politics", "lang": "en"}
+{"id": "pol_en_098", "text": "Export processing zones offer tariff exemptions and streamlined regulations to attract foreign manufacturing investment.", "label": "politics", "lang": "en"}
+{"id": "pol_en_099", "text": "Iran's civilian nuclear facilities at Bushehr, Natanz, and Fordow operate under International Atomic Energy Agency monitoring.", "label": "politics", "lang": "en"}
+{"id": "pol_en_100", "text": "Ballot access laws determine how easily candidates can qualify for placement on election ballots.", "label": "politics", "lang": "en"}
+{"id": "pol_en_101", "text": "Government transparency laws establish public access rights to official documents and meeting records.", "label": "politics", "lang": "en"}
+{"id": "pol_en_102", "text": "Iran's relationship with China includes cooperation under the 25-year comprehensive strategic partnership agreement.", "label": "politics", "lang": "en"}
+{"id": "pol_en_103", "text": "State capacity refers to a government's ability to implement policies and collect taxes across its territory.", "label": "politics", "lang": "en"}
+{"id": "pol_en_104", "text": "Recall elections allow voters to remove elected officials before their terms expire through petition and special election processes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_105", "text": "Iran's agricultural sector receives government subsidies for wheat, barley, and other staple crops.", "label": "politics", "lang": "en"}
+{"id": "pol_en_106", "text": "Lame duck periods occur between an election outcome and the new official's assumption of office.", "label": "politics", "lang": "en"}
+{"id": "pol_en_107", "text": "Government debt management strategies balance refinancing risks against interest rate exposure.", "label": "politics", "lang": "en"}
+{"id": "pol_en_108", "text": "Iran's participation in the Shanghai Cooperation Organisation facilitates regional security and economic coordination.", "label": "politics", "lang": "en"}
+{"id": "pol_en_109", "text": "Constituency service describes how legislators help individual voters navigate government bureaucracy.", "label": "politics", "lang": "en"}
+{"id": "pol_en_110", "text": "State-owned oil companies control approximately 90% of global proven oil reserves.", "label": "politics", "lang": "en"}
+{"id": "pol_en_111", "text": "Iran's housing market has experienced price increases driven by currency depreciation and population growth.", "label": "politics", "lang": "en"}
+{"id": "pol_en_112", "text": "Motion of no confidence procedures allow legislatures to remove cabinets or prime ministers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_113", "text": "Government internet regulation policies range from open access to comprehensive content filtering systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_114", "text": "Iran's port facilities at Bandar Abbas handle most maritime trade, including container and bulk cargo.", "label": "politics", "lang": "en"}
+{"id": "pol_en_115", "text": "Political socialization describes how individuals acquire political attitudes and values through family, school, and media.", "label": "politics", "lang": "en"}
+{"id": "pol_en_116", "text": "Urban planning authorities in Iran issue construction permits and enforce building codes within municipalities.", "label": "politics", "lang": "en"}
+{"id": "pol_en_117", "text": "Government disaster response systems coordinate evacuation, shelter, and supply distribution during emergencies.", "label": "politics", "lang": "en"}
+{"id": "pol_en_118", "text": "Iran's automotive industry produces passenger vehicles under domestic brands and licensed foreign designs.", "label": "politics", "lang": "en"}
+{"id": "pol_en_119", "text": "Electoral integrity assessments examine voter registration, polling place access, ballot security, and vote counting.", "label": "politics", "lang": "en"}
+{"id": "pol_en_120", "text": "Government statistical agencies collect demographic and economic data used for policy planning.", "label": "politics", "lang": "en"}
+{"id": "pol_en_121", "text": "Iran's healthcare system includes government-run hospitals, private providers, and rural health houses.", "label": "politics", "lang": "en"}
+{"id": "pol_en_122", "text": "Political trust measures how much confidence citizens have in government institutions and officials.", "label": "politics", "lang": "en"}
+{"id": "pol_en_123", "text": "Government anti-corruption agencies investigate bribery, embezzlement, and abuse of office allegations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_124", "text": "Iran's telecommunications infrastructure has expanded broadband access to most urban and many rural areas.", "label": "politics", "lang": "en"}
+{"id": "pol_en_125", "text": "Soft power describes a nation's ability to influence others through attraction rather than coercion or payment.", "label": "politics", "lang": "en"}
+{"id": "pol_en_126", "text": "Government arts funding supports museums, theaters, and cultural production through grants and tax incentives.", "label": "politics", "lang": "en"}
+{"id": "pol_en_127", "text": "Iran's dam construction program has increased water storage capacity for agriculture and hydropower generation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_128", "text": "Intergovernmental grants transfer funds from national to subnational governments for specific policy purposes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_129", "text": "Government science funding prioritizes basic research, applied development, and technology demonstration projects.", "label": "politics", "lang": "en"}
+{"id": "pol_en_130", "text": "Iran's civil registration system records births, deaths, marriages, and divorces for legal and statistical purposes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_131", "text": "So, how does a bill actually become a law? It has to pass both chambers of the legislature before the executive signs it.", "label": "politics", "lang": "en"}
+{"id": "pol_en_132", "text": "You know how some countries have presidents and some have prime ministers? That's basically the difference between presidential and parliamentary systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_133", "text": "When people talk about left-wing versus right-wing politics, they usually mean different views on economic equality and social change.", "label": "politics", "lang": "en"}
+{"id": "pol_en_134", "text": "Have you noticed how election campaigns spend so much money on TV ads? That's because broadcast media still reaches the largest audience.", "label": "politics", "lang": "en"}
+{"id": "pol_en_135", "text": "Why do some governments collapse frequently? It often happens in parliamentary systems when coalition partners withdraw their support.", "label": "politics", "lang": "en"}
+{"id": "pol_en_136", "text": "Think about property taxes: local governments rely on them heavily because property values don't change as quickly as economic conditions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_137", "text": "Iran's political system is kind of unique because it combines elected officials with religious oversight institutions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_138", "text": "Ever wonder why voting age is 18 in most countries? That came from debates about military service age and cognitive development.", "label": "politics", "lang": "en"}
+{"id": "pol_en_139", "text": "When a government runs a budget deficit, it basically spends more money than it collected in taxes during that year.", "label": "politics", "lang": "en"}
+{"id": "pol_en_140", "text": "Political polls you see on news websites often have margins of error around three or four percentage points.", "label": "politics", "lang": "en"}
+{"id": "pol_en_141", "text": "In Iran, the president is the highest elected official, but the Supreme Leader has broader constitutional authority.", "label": "politics", "lang": "en"}
+{"id": "pol_en_142", "text": "You might hear about swing states during US elections - those are places where both parties have a realistic chance of winning.", "label": "politics", "lang": "en"}
+{"id": "pol_en_143", "text": "Lobbyists don't just give money to politicians; they also provide research, drafting help, and constituent information.", "label": "politics", "lang": "en"}
+{"id": "pol_en_144", "text": "Why do some countries have mandatory voting? Australia does it to increase participation and represent more perspectives.", "label": "politics", "lang": "en"}
+{"id": "pol_en_145", "text": "Iran's economy includes a large informal sector where transactions happen outside government taxation and regulation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_146", "text": "Think about how government regulations affect small businesses - compliance costs can be proportionally higher for them than for large corporations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_147", "text": "When a politician promises to lower taxes, you have to ask which taxes and for which income levels.", "label": "politics", "lang": "en"}
+{"id": "pol_en_148", "text": "Iran's relations with neighboring Iraq involve religious pilgrimage sites, trade, and security coordination.", "label": "politics", "lang": "en"}
+{"id": "pol_en_149", "text": "Local government meetings might seem boring, but that's where decisions about zoning and school budgets actually happen.", "label": "politics", "lang": "en"}
+{"id": "pol_en_150", "text": "Ever noticed how election posters use simple slogans and bright colors? That's because voters see them very briefly.", "label": "politics", "lang": "en"}
+{"id": "pol_en_151", "text": "In Iran, the Expediency Council steps in when the parliament and Guardian Council can't agree on legislation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_152", "text": "Political debates on television follow specific formats with time limits and moderator control to make them manageable.", "label": "politics", "lang": "en"}
+{"id": "pol_en_153", "text": "When governments nationalize industries, they take private companies into state ownership - often for strategic or economic reasons.", "label": "politics", "lang": "en"}
+{"id": "pol_en_154", "text": "Why do some politicians focus on culture war issues? Because those topics can mobilize voters who might not otherwise pay attention.", "label": "politics", "lang": "en"}
+{"id": "pol_en_155", "text": "Iran's budget is denominated in rials, but the real economy uses a mix of rial and unofficial dollar transactions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_156", "text": "Think about how political parties choose their candidates - sometimes through open primaries, sometimes through small committee votes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_157", "text": "Government ID requirements for voting are controversial because they affect access for people without driver's licenses or passports.", "label": "politics", "lang": "en"}
+{"id": "pol_en_158", "text": "Iran's Revolutionary Guards control a network of economic enterprises in construction, telecommunications, and finance.", "label": "politics", "lang": "en"}
+{"id": "pol_en_159", "text": "You know how some countries have term limits for presidents? That forces regular leadership changes regardless of popularity.", "label": "politics", "lang": "en"}
+{"id": "pol_en_160", "text": "When people talk about the deep state, they're usually referring to career bureaucrats who stay in place across different administrations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_161", "text": "Iran's foreign exchange rate has multiple tiers - an official rate for some imports and a market rate for everything else.", "label": "politics", "lang": "en"}
+{"id": "pol_en_162", "text": "Political scandals often hurt politicians less than you might expect because voters care more about policy outcomes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_163", "text": "Why do governments create special economic zones? To attract investment by offering tax breaks and lighter regulations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_164", "text": "Think about how political endorsements work - a union or newspaper endorsement provides information to voters who trust that organization.", "label": "politics", "lang": "en"}
+{"id": "pol_en_165", "text": "Iran's Supreme Leader delivers public speeches on religious holidays and political occasions that signal policy directions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_166", "text": "Campaign finance laws try to balance free speech rights with preventing wealthy donors from having too much influence.", "label": "politics", "lang": "en"}
+{"id": "pol_en_167", "text": "Ever wonder why some politicians seem to change their positions? Voter preferences and new information both play roles.", "label": "politics", "lang": "en"}
+{"id": "pol_en_168", "text": "Iran's petroleum contracts with foreign companies have gone through several different legal frameworks over the past decades.", "label": "politics", "lang": "en"}
+{"id": "pol_en_169", "text": "Government response times for permit applications affect business decisions about where to locate facilities.", "label": "politics", "lang": "en"}
+{"id": "pol_en_170", "text": "Political advertisements use emotional appeals because research shows feelings often override factual reasoning in voting decisions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_171", "text": "Iran's Friday prayer leaders are appointed by the Supreme Leader and deliver sermons with political and religious content.", "label": "politics", "lang": "en"}
+{"id": "pol_en_172", "text": "When voters split their tickets, they vote for different parties for different offices in the same election.", "label": "politics", "lang": "en"}
+{"id": "pol_en_173", "text": "Why do some governments impose capital controls? To prevent rapid currency outflows during economic stress.", "label": "politics", "lang": "en"}
+{"id": "pol_en_174", "text": "Iran's universities have experienced periodic purges of faculty based on political and religious loyalty criteria.", "label": "politics", "lang": "en"}
+{"id": "pol_en_175", "text": "Think about how political debates use framing - describing the same policy as a tax relief or a tax cut changes public response.", "label": "politics", "lang": "en"}
+{"id": "pol_en_176", "text": "Government performance metrics like response times and completion rates help citizens evaluate service quality.", "label": "politics", "lang": "en"}
+{"id": "pol_en_177", "text": "Iran's relationship with Turkey includes competition over regional influence and cooperation on trade and security.", "label": "politics", "lang": "en"}
+{"id": "pol_en_178", "text": "Voter registration deadlines range from same-day registration to cutoff dates several weeks before elections.", "label": "politics", "lang": "en"}
+{"id": "pol_en_179", "text": "Political donations to candidates are disclosed in some countries while remaining anonymous in others.", "label": "politics", "lang": "en"}
+{"id": "pol_en_180", "text": "Iran's informal economy includes everything from street vendors to unregistered workshops and service providers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_181", "text": "When governments issue bonds, they're essentially borrowing money from investors who get regular interest payments.", "label": "politics", "lang": "en"}
+{"id": "pol_en_182", "text": "Political party manifestos are long documents that few voters read, but journalists and activists scrutinize them closely.", "label": "politics", "lang": "en"}
+{"id": "pol_en_183", "text": "Why do some countries have multiple election days while others hold all elections on the same date? Logistical and strategic factors matter.", "label": "politics", "lang": "en"}
+{"id": "pol_en_184", "text": "Iran's water management faces challenges from declining rainfall, agricultural demand, and upstream dam construction by neighbors.", "label": "politics", "lang": "en"}
+{"id": "pol_en_185", "text": "Think about how political apologies work - admitting a mistake can restore trust, but only if it seems sincere.", "label": "politics", "lang": "en"}
+{"id": "pol_en_186", "text": "Government ethics rules prohibit conflicts of interest where officials might personally benefit from their decisions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_187", "text": "Iran's youth population has grown more educated than previous generations, affecting employment and political expectations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_188", "text": "Political satire on television and social media can inform viewers while also cynicism about government.", "label": "politics", "lang": "en"}
+{"id": "pol_en_189", "text": "Ever notice how election night coverage calls races before all votes are counted? That's based on statistical projections from partial results.", "label": "politics", "lang": "en"}
+{"id": "pol_en_190", "text": "Iran's banking system includes state-owned banks, private banks, and Islamic financial institutions following sharia principles.", "label": "politics", "lang": "en"}
+{"id": "pol_en_191", "text": "Government contract bidding processes try to balance competition with considerations for local businesses and small enterprises.", "label": "politics", "lang": "en"}
+{"id": "pol_en_192", "text": "Political rhetoric about national security often gets less fact-checking than economic claims because information is classified.", "label": "politics", "lang": "en"}
+{"id": "pol_en_193", "text": "Iran's rail network connects major cities but has less coverage than road infrastructure for freight transport.", "label": "politics", "lang": "en"}
+{"id": "pol_en_194", "text": "Why do some governments implement austerity measures? To reduce debt levels when markets demand higher interest rates.", "label": "politics", "lang": "en"}
+{"id": "pol_en_195", "text": "Think about how political party switching works - legislators sometimes change parties between elections for strategic reasons.", "label": "politics", "lang": "en"}
+{"id": "pol_en_196", "text": "Government census data determines legislative district boundaries, funding allocations, and many other policy decisions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_197", "text": "Iran's pharmaceutical industry produces generic medications but relies on imports for specialized drugs and raw materials.", "label": "politics", "lang": "en"}
+{"id": "pol_en_198", "text": "Political conventions where parties nominate candidates have become mostly ceremonial because primaries decide outcomes in advance.", "label": "politics", "lang": "en"}
+{"id": "pol_en_199", "text": "When governments provide disaster relief, they face decisions about direct cash payments versus in-kind aid like food and shelter.", "label": "politics", "lang": "en"}
+{"id": "pol_en_200", "text": "Iran's internet filtering blocks access to certain websites and social media platforms deemed politically or culturally inappropriate.", "label": "politics", "lang": "en"}
+{"id": "pol_en_201", "text": "Political focus groups help campaigns test language and arguments before broadcasting them to larger audiences.", "label": "politics", "lang": "en"}
+{"id": "pol_en_202", "text": "Government licensing requirements for professions like medicine and law aim to ensure minimum competency standards.", "label": "politics", "lang": "en"}
+{"id": "pol_en_203", "text": "Iran's demographic transition shows declining birth rates and gradually aging population similar to other middle-income countries.", "label": "politics", "lang": "en"}
+{"id": "pol_en_204", "text": "Political independents who don't identify with any party have grown as a share of voters in several democracies.", "label": "politics", "lang": "en"}
+{"id": "pol_en_205", "text": "Think about how government accounting differs from business accounting - it focuses on budgetary compliance rather than profitability.", "label": "politics", "lang": "en"}
+{"id": "pol_en_206", "text": "Legitimacy in political systems derives from sources including tradition, charisma, legal rationality, and performance outcomes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_207", "text": "The concept of representation raises questions about whether elected officials should act as delegates, trustees, or something between.", "label": "politics", "lang": "en"}
+{"id": "pol_en_208", "text": "Political power can be analyzed as the capacity to influence outcomes, set agendas, or shape what others perceive as possible.", "label": "politics", "lang": "en"}
+{"id": "pol_en_209", "text": "Justice in taxation involves competing principles: ability to pay, benefit received, horizontal equity, and administrative feasibility.", "label": "politics", "lang": "en"}
+{"id": "pol_en_210", "text": "Sovereignty implies supreme authority within a territory, but globalization and international law have complicated this traditional understanding.", "label": "politics", "lang": "en"}
+{"id": "pol_en_211", "text": "Political ideology structures beliefs about human nature, social order, property rights, and the proper scope of government action.", "label": "politics", "lang": "en"}
+{"id": "pol_en_212", "text": "The median voter theorem suggests that in single-dimensional elections, candidates converge toward the preference of the middle voter.", "label": "politics", "lang": "en"}
+{"id": "pol_en_213", "text": "Institutional design choices determine how political systems aggregate preferences, manage conflicts, and allocate resources.", "label": "politics", "lang": "en"}
+{"id": "pol_en_214", "text": "Collective action problems in politics arise when individual incentives diverge from group welfare, requiring coordination mechanisms.", "label": "politics", "lang": "en"}
+{"id": "pol_en_215", "text": "The concept of political obligation asks why individuals should obey laws they did not personally consent to follow.", "label": "politics", "lang": "en"}
+{"id": "pol_en_216", "text": "Power diffusion across multiple institutional actors can prevent tyranny but also slow decision-making and obscure accountability.", "label": "politics", "lang": "en"}
+{"id": "pol_en_217", "text": "Political equality as an ideal conflicts with other values like liberty and efficiency in practical governance systems.", "label": "politics", "lang": "en"}
+{"id": "pol_en_218", "text": "The public sphere concept describes spaces where citizens deliberate about collective issues outside direct state control.", "label": "politics", "lang": "en"}
+{"id": "pol_en_219", "text": "Path dependence in political development explains how early institutional choices constrain later options and outcomes.", "label": "politics", "lang": "en"}
+{"id": "pol_en_220", "text": "Democracy's essential procedural components include universal participation, political equality, majority rule, and civil liberties protection.", "label": "politics", "lang": "en"}
+{"id": "pol_en_221", "text": "The security dilemma in international relations occurs when defensive military buildups appear threatening to other states.", "label": "politics", "lang": "en"}
+{"id": "pol_en_222", "text": "Political trust functions as cognitive short-hand that reduces information costs for citizens monitoring government performance.", "label": "politics", "lang": "en"}
+{"id": "pol_en_223", "text": "The concept of representation extends beyond elections to include descriptive, symbolic, and substantive dimensions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_224", "text": "Regulatory capture describes how industries sometimes influence agencies meant to oversee their activities.", "label": "politics", "lang": "en"}
+{"id": "pol_en_225", "text": "Political cycles in economic policy occur when governments manipulate fiscal or monetary tools before elections.", "label": "politics", "lang": "en"}
+{"id": "pol_en_226", "text": "The concept of bureaucratic discretion highlights tension between rule-following and professional judgment in policy implementation.", "label": "politics", "lang": "en"}
+{"id": "pol_en_227", "text": "Political socialization transmits values across generations, creating continuity but also reproducing existing power structures.", "label": "politics", "lang": "en"}
+{"id": "pol_en_228", "text": "The difference between negative and positive liberty distinguishes freedom from interference versus freedom to achieve potential.", "label": "politics", "lang": "en"}
+{"id": "pol_en_229", "text": "Political opposition in authoritarian systems operates through tolerated channels rather than competitive elections.", "label": "politics", "lang": "en"}
+{"id": "pol_en_230", "text": "The concept of policy feedback suggests that government decisions reshape political behavior and future policy possibilities.", "label": "politics", "lang": "en"}
+{"id": "pol_en_231", "text": "Federalism as a governance technology manages diversity by allocating different powers to different territorial levels.", "label": "politics", "lang": "en"}
+{"id": "pol_en_232", "text": "Political agendas can be understood as sets of issues receiving serious attention at specific times from decision-makers.", "label": "politics", "lang": "en"}
+{"id": "pol_en_233", "text": "The concept of civil society occupies space between the household, the market, and the state for voluntary association.", "label": "politics", "lang": "en"}
+{"id": "pol_en_234", "text": "Political memory involves how societies selectively recall and interpret past events to guide current action.", "label": "politics", "lang": "en"}
+{"id": "pol_en_235", "text": "The concept of governance rather than government emphasizes networks, partnerships, and blurring of state-society boundaries.", "label": "politics", "lang": "en"}
+{"id": "pol_en_236", "text": "Political entrepreneurship identifies individuals who mobilize resources, frame issues, and organize collective action.", "label": "politics", "lang": "en"}
+{"id": "pol_en_237", "text": "The paradox of voting asks why individuals incur costs to vote when a single ballot almost never determines an election outcome.", "label": "politics", "lang": "en"}
+{"id": "pol_en_238", "text": "Political legitimacy crises occur when ruled populations withdraw consent from governing institutions.", "label": "politics", "lang": "en"}
+{"id": "pol_en_239", "text": "The concept of intersectionality in politics examines how multiple identities combine to shape political experience and opportunity.", "label": "politics", "lang": "en"}
+{"id": "pol_en_240", "text": "Political sequencing matters because the order of institutional reforms affects their success and stability.", "label": "politics", "lang": "en"}
+{"id": "pol_en_241", "text": "The concept of political space distinguishes territorial jurisdiction, issue domains, and levels of authority.", "label": "politics", "lang": "en"}
+{"id": "pol_en_242", "text": "Democratic backsliding describes gradual erosion of electoral integrity, civil liberties, and checks on executive power.", "label": "politics", "lang": "en"}
+{"id": "pol_en_243", "text": "Political parties as organizations solve collective action problems for candidates and coordinate legislative behavior.", "label": "politics", "lang": "en"}
+{"id": "pol_en_244", "text": "The concept of public reason requires political justifications that all reasonable citizens could accept.", "label": "politics", "lang": "en"}
+{"id": "pol_en_245", "text": "Political veto points describe institutional locations where policy change can be blocked by specific actors.", "label": "politics", "lang": "en"}
+{"id": "pol_en_246", "text": "The concept of political development traces how systems increase their capacity, differentiation, and inclusiveness over time.", "label": "politics", "lang": "en"}
+{"id": "pol_en_247", "text": "Political identities are constructed through boundary drawing between in-groups and out-groups.", "label": "politics", "lang": "en"}
+{"id": "pol_en_248", "text": "The concept of administrative burden explains how compliance costs disproportionately affect disadvantaged populations.", "label": "politics", "lang": "en"}
+{"id": "pol_en_249", "text": "Political polarization as a distributional concept describes increasing distance between groups' ideal policy points.", "label": "politics", "lang": "en"}
+{"id": "pol_en_250", "text": "The concept of political risk affects investment decisions, aid allocation, and international cooperation calculations.", "label": "politics", "lang": "en"}
